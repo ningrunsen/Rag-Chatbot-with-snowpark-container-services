@@ -1,0 +1,8 @@
+[server]
+enableStaticServing = true
+#runOnSave = true # Can be removed maybe, helps in local with Navbar (navbar hides the "run automatically" button)
+maxUploadSize = 500 # Can adjust file limit (Admin Settings)
+
+# Hides the Sidebar Navigation of pages, in turn, will show our custom Sidebar
+[client]
+showSidebarNavigation = false

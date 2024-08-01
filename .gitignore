@@ -1,0 +1,9 @@
+**/__pycache__/
+# .streamlit/
+.streamlit/secrets.toml
+Backup Files/
+extraFileDontNeed/
+New_Method_EH/
+.devcontainer/
+tmp/
+pages/chatbot_page.py
